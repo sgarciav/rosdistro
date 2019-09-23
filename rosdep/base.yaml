@@ -5688,3 +5688,6 @@ zziplib:
   opensuse: [zziplib-devel]
   rhel: [zziplib-devel]
   ubuntu: [libzzip-0-13, libzzip-dev]
+ouster_client:
+  debian: [ros-kinetic-ouster-client]
+  ubuntu: [ros-kinetic-ouster-client]
