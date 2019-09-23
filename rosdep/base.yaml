@@ -5691,3 +5691,6 @@ zziplib:
 ouster_client:
   debian: [ros-kinetic-ouster-client]
   ubuntu: [ros-kinetic-ouster-client]
+ouster_viz:
+  debian: [ros-kinetic-ouster-viz]
+  ubuntu: [ros-kinetic-ouster-viz]
