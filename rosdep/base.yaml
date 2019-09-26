@@ -5694,3 +5694,6 @@ ouster_client:
 ouster_viz:
   debian: [ros-kinetic-ouster-viz]
   ubuntu: [ros-kinetic-ouster-viz]
+catkin_simple:
+  debian: [ros-kinetic-catkin-simple]
+  ubuntu: [ros-kinetic-catkin-simple]
